@@ -1,5 +1,6 @@
 – Names and email addresses of all partners.
 David Robison       davidrobison@csu.fullerton.edu
+Chris Gudea         pulala@gmail.com
 
 – The programming language you use (e.g. C++, Java, or Python)
 Python
