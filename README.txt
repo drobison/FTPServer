@@ -1,7 +1,5 @@
-– Names and email addresses of all partners.
-David Robison       davidrobison@csu.fullerton.edu
-Chris Gudea         pulala@gmail.com
-Lex Banzon          lexbanzonjr@csu.fullerton.edu
+– Author        davidrobison122@gmail.com
+David Robison           
 
 – The programming language you use (e.g. C++, Java, or Python)
 Python
